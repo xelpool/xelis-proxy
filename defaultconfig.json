@@ -1,0 +1,9 @@
+{
+	"wallet": "WALLET_ADDRESS",
+	"pool_url": "auto.xatum.xelpool.com:5212",
+	"pool_protocol": "auto",
+	"xatum_bind_port": 5211,
+	"getwork_bind_port": 5210,
+	"stratum_bind_port": 5209,
+	"debug": false
+}
