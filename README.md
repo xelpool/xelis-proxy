@@ -1,6 +1,6 @@
 
-# XELIS-PROXY (BETA v0.1.0)
-![GitHub all releases](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total)
+# XELIS-PROXY (BETA v0.1.1)
+![GitHub all releases](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total) ![GitHub language](https://img.shields.io/badge/language-Go-blue)
 
 High performance XELIS mining proxy.
 
@@ -33,3 +33,7 @@ Incoming (miners can connect to the proxy using these protocols):
 
 ## Example configuration
 An example configuration file can be found in `defaultconfig.json`
+
+## Donation
+When connected to a pool, XELIS-PROXY has a donation of 0% (no fees).
+When connected to a XELIS node and solo mining, XELIS-PROXY has a donation of 0.5%.
