@@ -1,5 +1,5 @@
 
-# XELIS-PROXY (BETA v0.1.2)
+# XELIS-PROXY (BETA v0.1.3)
 ![GitHub releases downloads](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total) ![GitHub language](https://img.shields.io/badge/language-Go-blue)
 
 High performance XELIS mining proxy.
