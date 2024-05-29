@@ -1,17 +1,25 @@
 
-# XELIS-PROXY (BETA v0.1.1)
-![GitHub all releases](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total) ![GitHub language](https://img.shields.io/badge/language-Go-blue)
+# XELIS-PROXY (BETA v0.1.2)
+![GitHub releases downloads](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total) ![GitHub language](https://img.shields.io/badge/language-Go-blue)
 
 High performance XELIS mining proxy.
 
 Download: [releases](https://github.com/xelpool/xelis-proxy/releases)
 
+## Why XELIS-PROXY
+XELIS-PROXY is useful if you have multiple miners.
+It minimizes the strain on daemon or pool software.
+Additionally, it reduces latency, which brings more profit.
+
+It is also useful if you want to solo mine using a mining software which only supports Stratum
+pool mining.
+
 ## Usage
-XELIS-PROXY is shipped with two example scripts to mine on solo node and to pool mine on [XelPool](https://xelpool.com)
+XELIS-PROXY is shipped with two example scripts to mine on solo node and to pool mine on [XelPool](https://xelpool.com).
 
 ## Default ports
 
-- Stratum: `5209` (Rigel Miner)
+- Stratum: `5209` (for Rigel, OneZeroMiner, ...)
 - Getwork: `5210`
 - Xatum: `5211`
 
