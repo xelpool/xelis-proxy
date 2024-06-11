@@ -1,5 +1,5 @@
 
-# XELIS-PROXY (BETA v0.1.3)
+# XELIS-PROXY (BETA v0.1.4)
 ![GitHub releases downloads](https://img.shields.io/github/downloads/XelPool/XELIS-PROXY/total) ![GitHub language](https://img.shields.io/badge/language-Go-blue)
 
 High performance XELIS mining proxy.
@@ -38,6 +38,11 @@ Incoming (miners can connect to the proxy using these protocols):
 - Xatum
 - Getwork
 - Stratum
+
+## Supported coins
+- XELIS
+- Zytex
+- Skoof
 
 ## Example configuration
 An example configuration file can be found in `defaultconfig.json`
